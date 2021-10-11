@@ -63,6 +63,9 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
+stackoverflow_id: #your stackoverflow id
+
+rss_icon: true
 
 contact_note: >
 # You can even add a little note about which of these is the best way to reach you.
@@ -134,11 +137,14 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-email-protect
-  - jekyll-github-metadata
-  - jekyll-feed
-  - jekyll-paginate-v2
   - jekyll/scholar
+  - jekyll-diagrams
+  - jekyll-email-protect
+  - jekyll-feed
+  - jekyll-github-metadata
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+  - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
 
@@ -160,6 +166,10 @@ scholar:
   source: /_bibliography/
   bibliography: first_pubs.bib
   bibliography_template: bib
+  # Note: if you have latex math in your bibtex, the latex filter
+  # preprocessing may conflict with MathJAX if the latter is enabled.
+  # See https://github.com/alshedivat/al-folio/issues/357.
+  bibtex_filters: [latex, smallcaps, superscript]
 
   replace_strings: true
   join_strings: true
@@ -169,6 +179,14 @@ scholar:
   details_link: Details
 
   query: "@*"
+
+# -----------------------------------------------------------------------------
+# Jekyll Diagrams
+# -----------------------------------------------------------------------------
+
+jekyll-diagrams:
+    # configuration, see https://github.com/zhustec/jekyll-diagrams.
+    # feel free to comment out this section if not using jekyll diagrams.
 
 # -----------------------------------------------------------------------------
 # Optional Features
@@ -206,7 +224,7 @@ jquery:
   version: "3.5.1"
   integrity: "sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
 mathjax:
-  version: "3.1.2"
+  version: "3.2.0"
 mansory:
   version: "4.2.2"
   integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
