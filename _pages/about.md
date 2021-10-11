@@ -1,26 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: Associate Professor at the <a href="https://cosmicdawn.dk">Cosmic Dawn Center</a>, Niels Bohr Institute, University of Copenhagen.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I work at the intersection of theory and observations in astrophysics. Most of my work has focused on understanding the formation and evolution of galaxies in the early universe, including those formed just a few hundred million years after the Big Bang, their connections to the dark matter halos they form in, and their relationship to the reionization of intergalactic hydrogen in the universe's first billion years. I typically combine empirical and semi-analytical theoretical modelling with statistical analyses of observations to ask what our frontier observations of galaxies tell us about the early universe. For more details see my [research page](/research), my [CV](/assets/pdf/CV-CharlotteMason.pdf), and [my papers on ADS](https://ui.adsabs.harvard.edu/search/filter_bibstem_facet_fq_bibstem_facet=NOT&filter_bibstem_facet_fq_bibstem_facet=(((*%3A*%20NOT%20bibstem_facet%3A%22E%26PSL%22%20NOT%20bibstem_facet%3A%22LPICo%22%20NOT%20bibstem_facet%3A%22ESASP%22)%20NOT%20bibstem_facet%3A%22cosp%22%20NOT%20bibstem_facet%3A%22LPI%22)%20NOT%20bibstem_facet%3A%22JDSO%22)&filter_bibstem_facet_fq_bibstem_facet=bibstem_facet%3A%22NewSp%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_bibstem_facet%7D&fq_bibstem_facet=((((*%3A*%20NOT%20bibstem_facet%3A%22E%26PSL%22%20NOT%20bibstem_facet%3A%22LPICo%22%20NOT%20bibstem_facet%3A%22ESASP%22)%20NOT%20bibstem_facet%3A%22cosp%22%20NOT%20bibstem_facet%3A%22LPI%22)%20NOT%20bibstem_facet%3A%22JDSO%22)%20NOT%20bibstem_facet%3A%22NewSp%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=author%3A%22mason%2C%20c%22%20year%3A2011-2021&sort=date%20desc%2C%20bibcode%20desc){:target="\_blank"}.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+If any of this sounds interesting to you, please get in touch! DAWN hires postdoc Fellows and PhD students yearly and we also can host visitors. My group has openings for postdocs, PhD and MSc students. Inquiries from people interested in working at DAWN or applying for independent research funding in Denmark are very welcome. I am always interested in collaborating with new people.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was formerly a NASA Hubble Fellow and CfA Fellow at the [Center for Astrophysics \| Harvard & Smithsonian](http://cfa.harvard.edu){:target="\_blank"}. I did my PhD with [Prof. Tommaso Treu](http://astro.ucla.edu/~tt){:target="\_blank"} at [UCLA](http://astro.ucla.edu/){:target="\_blank"} and [UCSB](http://web.physics.ucsb.edu/~astrogroup/){:target="\_blank"}. I was an undergraduate at [Merton College](http://www.merton.ox.ac.uk/){:target="\_blank"}, [University of Oxford](http://www.ox.ac.uk/){:target="\_blank"}.
+
+<!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

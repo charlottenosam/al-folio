@@ -1,25 +1,15 @@
 ---
 layout: page
-title: project 1
+title: Reionization
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
+category: 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The universe underwent a phase transition from predominantly neutral at recombination (z ∼ 1100), to almost fully ionized by z ∼ 6. We have not identified the sources of ionizing photons – though the most likely candidates are young stars in galaxies. Lyman alpha emission from star-forming galaxies is absorbed by neutral gas, so observations of Lyα in high-z galaxies can constrain the timeline and morpology of reionization. I have developed a new Bayesian framework for directly inferring the neutral hydrogen fraction in the IGM from Lyα observations. I led the design, reduction and analysis of a ESO VLT Large Program with KMOS (PI: A Fontana) to measure the reionization timeline from upper limits of Lyα emission at z > 7.5.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
