@@ -1,0 +1,32 @@
+- name: Charlotte Mason
+  degrees: PhD
+  image: group_cm.jpg
+  altimage:
+  position: Associate Professor at University of Copenhagen
+  email: charlotte.mason [at] nbi.ku.dk
+  # website:
+  # scholar:
+  # twitter:
+  # github: winstonchiong
+  # orcid: "orcid.org/0000-0001-9188-1920"
+  description: My work focuses on understanding "Cosmic Dawn" -- when and how did the first galaxies form, what are their connections with the dark matter halos they form in, and how was intergalactic hydrogen reionized? Outside of work I try to spend as much of my time as possible away from a computer, usually in or on water (mostly swimming and rowing).
+
+- name: Ting-Yi Lu
+  degrees: MSc
+  image: group_ty1.png
+  altimage:
+  position: PhD student at University of Copenhagen
+  email:
+  scholar:
+  website:
+  description: Ting-Yi joined DAWN from the National Tsing Hua University in Taiwan. Her first project is focused on measuring the morphology of Reionization.
+
+- name: Gonzalo Prieto Lyon
+  degrees: MSc
+  image: group_soon.jpg
+  altimage:
+  position: PhD student at University of Copenhagen
+  email:
+  scholar:
+  website:
+  description: Gonzalo joined DAWN from the Pontificia Universidad Católica de Chile. His first project is focused on understanding how Lyman alpha emission is produced and escapes high redshift galaxies.
