@@ -83,7 +83,7 @@ horizontal: false
 
 ## opportunities
 
-DAWN hires postdoc Fellows and PhD students yearly and we also can host visitors. My group has openings for postdocs, PhD and MSc students. Inquiries from people interested in working at DAWN and/or applying for independent research funding in Denmark are very welcome. I am always interested in collaborating with new people.
+DAWN hires postdoc Fellows and PhD students yearly and we also can host visitors. My group has openings for postdocs, PhD and MSc students at the Niels Bohr Institute. Inquiries from people interested in working at DAWN and/or applying for independent research funding in Denmark are very welcome. I am always interested in collaborating with new people.
 
 ---
 

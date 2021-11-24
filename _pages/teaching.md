@@ -13,6 +13,6 @@ nav_order: 6
 - Spring 2014 -- TA Physics 1 (University of California, Santa Barbara)
 - Fall 2013 -- TA Quantum Mechanics (University of California, Santa Barbara)
 
-## outreach
+## media & outreach
 
 I helped organise [Astronomy on Tap](https://astronomyontap.org) in Boston and Santa Barbara. [Watch](https://www.youtube.com/watch?v=oHfv5gIagSM) my 2016 AoT Santa Barbara talk 'Finding the First Galaxies in the Universe'
