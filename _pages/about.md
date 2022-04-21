@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-description: Associate Professor at the <a href="https://cosmicdawn.dk">Cosmic Dawn Center</a>, <a href="https://nbi.ku.dk/english/">Niels Bohr Institute, University of Copenhagen</a>.
+#description: Associate Professor at the <a href="https://cosmicdawn.dk">Cosmic Dawn Center</a>, <a href="https://nbi.ku.dk/english/">Niels Bohr Institute, University of Copenhagen</a>.
+subtitle: Associate Professor at the <a href="https://cosmicdawn.dk">Cosmic Dawn Center</a>, <a href="https://nbi.ku.dk/english/">Niels Bohr Institute, University of Copenhagen</a>.
 
 profile:
   align: right
