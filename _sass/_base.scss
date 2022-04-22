@@ -64,7 +64,7 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
-  
+
   img {
     width: 100%;
   }
@@ -107,7 +107,7 @@ blockquote {
   }
 }
 
-@media (min-width: 300px) {
+@media (min-width: 200px) {
   .profile {
     width: 25%;
     .address {
