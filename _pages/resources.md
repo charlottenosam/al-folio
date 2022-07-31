@@ -3,8 +3,11 @@ layout: page
 title: resources
 permalink: /resources/
 nav: true
-description: Public code and software
+description: Models and code
 ---
+
+### models
+- [UV LF model](https://github.com/charlottenosam/UVLF_model) - UV LF model from Mason, Trenti & Treu ([2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...813...21M/abstract), [2022](https://ui.adsabs.harvard.edu/))
 
 ### software
 
