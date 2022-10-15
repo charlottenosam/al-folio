@@ -9,9 +9,10 @@ nav_order: 6
 
 ## teaching
 
-- Fall 2015 - Spring 2017 -- Instructor Earth 102: Astronomy Lab (Santa Barbara City College)
-- Spring 2014 -- TA Physics 1 (University of California, Santa Barbara)
-- Fall 2013 -- TA Quantum Mechanics (University of California, Santa Barbara)
+<!-- - 2022 -- Instructor Earth 102: Astronomy Lab (Santa Barbara City College) -->
+- 2015 - 2017 -- Instructor Earth 102: Astronomy Lab (Santa Barbara City College)
+- 2014 -- TA Physics 1 (University of California, Santa Barbara)
+- 2013 -- TA Quantum Mechanics (University of California, Santa Barbara)
 
 ## media & outreach
 
