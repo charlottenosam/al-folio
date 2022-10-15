@@ -23,10 +23,30 @@
 
 - name: Gonzalo Prieto Lyon
   degrees: MSc
-  image: group_soon.jpg
+  image: group_gonzalo.jpg
   altimage:
   position: PhD student at University of Copenhagen
   email:
   scholar:
   website:
   description: Gonzalo joined DAWN from the Pontificia Universidad Católica de Chile. His first project is focused on understanding how Lyman alpha emission is produced and escapes high redshift galaxies.
+
+- name: Victoria Strait
+  degrees: PhD
+  image: group_victoria.png
+  altimage:
+  position: DAWN Fellow
+  email:
+  scholar:
+  website: https://victoriastrait.github.io
+  description: Victoria got her PhD under the advisement of Maruša Bradač at the University of California Davis. She is now a DAWN Fellow co-supervising Gonzalo, and is interested in understanding the properties of early galaxies. Outside of work, she enjoys many forms of movement, including biking, climbing, and running.
+
+- name: Anne Hutter
+  degrees: PhD
+  image: group_anne.jpg
+  altimage:
+  position: DAWN Fellow
+  email:
+  scholar:
+  website: https://annehutter.github.io/
+  description: My work focuses on understanding the Epoch of Reionisation with theoretical models and simulations - what was the nature of the first galaxies emerging in our Universe, and how did they evolve? What were their footprints in the ionisation state of the intergalactic hydrogen gas?
