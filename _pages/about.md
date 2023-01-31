@@ -8,7 +8,7 @@ subtitle: Associate Professor at the <a href="https://cosmicdawn.dk">Cosmic Dawn
 profile:
   align: right
   image: prof_pic.jpg
-  address: charlotte.mason [at] nbi.ku.dk<br>Cosmic Dawn Center<br>Niels Bohr Building<br>Rådmandsgade 64<br>2200 Copenhagen N, Denmark<br>
+  address: charlotte [.] mason [at] nbi.ku.dk<br>Cosmic Dawn Center<br>Niels Bohr Building<br>Rådmandsgade 64<br>2200 Copenhagen N, Denmark<br>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
