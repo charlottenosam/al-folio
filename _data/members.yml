@@ -13,13 +13,13 @@
 
 - name: Kimi Kreilgaard
   degrees: MSc
-  image: group_kimi.jpg
+  image: group_kimi.png
   altimage:
   position: PhD student
   email:
   scholar:
   website:
-  description: Kimi is a PhD student at DAWN. She completed her master's in the group inferring the distribution of the ionizing photon escape fraction in 2023. For her PhD she will be working with the JWST Cycle 2 pure-parallel program BEACON to observe the first galaxies.
+  description: I joined DAWN as a master’s student exploring how we can infer measures of the escape fraction of ionising photons from galaxies. I recently started as a PhD student in the group, where I will use JWST data to investigate how we can better measure the high redshift galaxy population and explore different hypotheses for why star-formation may be different in the early Universe. Outside of work I enjoy reading and drawing - and when the Danish weather allows it, you can find me playing football.
 
 - name: Ting-Yi Lu
   degrees: MSc
@@ -53,7 +53,7 @@
 
 - name: Viola Gelli
   degrees: PhD
-  image: group_viola.png
+  image: group_viola.jpeg
   altimage:
   position: Postdoc
   email:
